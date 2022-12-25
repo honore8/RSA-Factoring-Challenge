@@ -1,1 +1,2 @@
-This repository contains files for the ALX project RSA-Factoring-Challenge
+# RSA-Factoring-Challenge
+RSA-Factoring-Challenge task [by Alx]
